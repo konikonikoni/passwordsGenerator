@@ -1,6 +1,6 @@
 # Password Generator
 
-# Welcome to the Password Generator project! This project provides a simple web-based tool for generating secure passwords. The application is built using HTML, CSS, and JavaScript, and it leverages Bootstrap for styling.
+### Welcome to the Password Generator project! This project provides a simple web-based tool for generating secure passwords. The application is built using HTML, CSS, and JavaScript, and it leverages Bootstrap for styling.
 
 ## Features
 
